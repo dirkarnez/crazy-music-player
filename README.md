@@ -4,3 +4,5 @@ From [wavesurfer.js | Regions](https://wavesurfer-js.org/example/regions/index.h
 
 ### TODO
 - [ ] Make this modular
+- [ ] Playback speed
+- [ ] [wavesurfer.js | Playlist](https://wavesurfer-js.org/example/playlist/index.html)
