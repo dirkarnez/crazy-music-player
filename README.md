@@ -5,6 +5,7 @@ From [wavesurfer.js | Regions](https://wavesurfer-js.org/example/regions/index.h
 ### TODO
 - [ ] Make this modular
 - [ ] Playback speed
+- [ ] forward / backward
 - [ ] [wavesurfer.js | Playlist](https://wavesurfer-js.org/example/playlist/index.html)
 - [ ] Networking
   - [AmplitudeJS: Design your web audio player, the way you want.](https://521dimensions.com/open-source/amplitudejs)
