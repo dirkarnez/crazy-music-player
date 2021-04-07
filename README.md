@@ -5,6 +5,7 @@ From [wavesurfer.js | Regions](https://wavesurfer-js.org/example/regions/index.h
 ### TODO
 - [ ] Make this modular
 - [ ] Software gain
+  - https://developer.mozilla.org/en-US/docs/Web/API/GainNode
 - [ ] Playback speed
 - [ ] forward / backward
 - [ ] [wavesurfer.js | Playlist](https://wavesurfer-js.org/example/playlist/index.html)
